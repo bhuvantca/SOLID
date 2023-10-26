@@ -1,3 +1,12 @@
-Solid:
+Design Principles:
+  Design principles are used to build maintainable, understandable softwares.
+
+Advantage:
 Easy to maintain, easy to understand, easy to evolve as per future requirements.
 Along with that we need to avoid duplication in our code and reduce the complexity that can exists in our code.
+Very useful for test driven development.
+
+Design Principles                vs             Design patterns
+Best practice to build s/w                      Techniques to solve issue with code.
+Suitable for all requirements                   Each patterns used for specific req.
+guidelines for coding                           Known templates for coding.
