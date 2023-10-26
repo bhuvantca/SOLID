@@ -38,3 +38,20 @@ int main() {
 
     return 0;
 }
+
+
+
+
+/*
+A class/method should have only one responsibility.
+
+Adv: 
+1. Changes dont have impact with other functionality/modulr.
+2. Easy to maintain.
+
+
+
+
+
+
+*/
