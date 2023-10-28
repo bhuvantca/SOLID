@@ -10,3 +10,7 @@ Design Principles                vs             Design patterns
 Best practice to build s/w                      Techniques to solve issue with code.
 Suitable for all requirements                   Each patterns used for specific req.
 guidelines for coding                           Known templates for coding.
+
+
+
+- Tightly coupled 
